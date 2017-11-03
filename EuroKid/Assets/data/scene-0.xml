@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="1" desc="" eventsnippetid="0" extheight="544" extwidth="384" extx="-32" exty="-32" format="3.4.0" gravx="-0.0" gravy="0.0" height="480" id="0" name="Avatar" revision="" savecount="0" tiled="1" tileh="32" tilew="32" type="standard" width="320">
+    <layers>
+        <color-bg blue="255" green="255" red="255"/>
+        <background blendMode="normal" customScrollFactor="false" id="1" locked="true" name="Happy" opacity="100" order="1" rid="0" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+        <layer blendMode="normal" color="100,168,234" id="0" locked="false" name="Layer 0" opacity="100" order="0" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+    </layers>
+    <joints/>
+    <regions/>
+    <terrainRegions/>
+    <actors>
+        <actor a="0.0" aid="1" c="true" group="3" id="4" name="Char1 1" sx="1.3684211" sy="1.5217391" x="67" y="104" z="0">
+            <snippets>
+                <s enabled="true" id="3"/>
+                <s enabled="true" id="11">
+                    <prop id="2147483647" list="0" val="thisactor"/>
+                    <prop id="1" list="0" val="false"/>
+                    <prop id="2" list="0" val="4"/>
+                </s>
+            </snippets>
+        </actor>
+        <actor a="0.0" aid="2" c="true" group="3" id="10" name="Dave 2" sx="0.48" sy="0.46666667" x="13" y="178" z="0">
+            <snippets>
+                <s enabled="true" id="7"/>
+                <s enabled="true" id="11">
+                    <prop id="2147483647" list="0" val="thisactor"/>
+                    <prop id="1" list="0" val="false"/>
+                    <prop id="2" list="0" val="10"/>
+                </s>
+            </snippets>
+        </actor>
+        <actor a="0.0" aid="3" c="true" group="3" id="8" name="Naina 3" sx="1.0967742" sy="1.4545455" x="194" y="104" z="0">
+            <snippets>
+                <s enabled="true" id="6"/>
+                <s enabled="true" id="11">
+                    <prop id="2147483647" list="0" val="thisactor"/>
+                    <prop id="1" list="0" val="false"/>
+                    <prop id="2" list="0" val="8"/>
+                </s>
+            </snippets>
+        </actor>
+        <actor a="0.0" aid="4" c="true" group="3" id="6" name="Jack 4" sx="1.375" sy="1.4166666" x="203" y="230" z="0">
+            <snippets>
+                <s enabled="true" id="5"/>
+                <s enabled="true" id="11">
+                    <prop id="2147483647" list="0" val="thisactor"/>
+                    <prop id="1" list="0" val="false"/>
+                    <prop id="2" list="0" val="6"/>
+                </s>
+            </snippets>
+        </actor>
+    </actors>
+    <snippets/>
+    <terrain/>
+    <atlases members="" retainAtlases="true"/>
+</scene>
